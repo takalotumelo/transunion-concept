@@ -1,0 +1,7 @@
+# Concept preview: keep out of search engines. For production on transunion.co.za use:
+#   User-agent: *
+#   Allow: /
+User-agent: *
+Disallow: /
+
+Sitemap: https://www.transunion.co.za/sitemap.xml
